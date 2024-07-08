@@ -1,9 +1,9 @@
 
-YOUR FULL NAME : ARUN ROSHAN R S P
+ NAME : ARUN ROSHAN R S P
 DOMAIN NAME    : DATA ANALYST
 INTERN ID      :
 BATCH DURATION : 4 WEEKS
-MENTOR NAME    : 
+MENTOR NAME    : Sravani gouni
 
 IPL Ball-by-Ball Data Analysis
 This project provides a comprehensive analysis of the IPL Ball-by-Ball data from 2008 to 2024. Using Python and its data visualization libraries, we explore various aspects of the game, including the distribution of runs, types of wickets, and key players involved in dismissals.
@@ -85,3 +85,12 @@ This project demonstrates the use of Python for analyzing and visualizing sports
 Acknowledgments
 The IPL dataset was provided for educational purposes.
 Thanks to the contributors of the libraries used in this project.
+Output:
+Histogram:
+![im1](https://github.com/ArunRoshan143/EDA-intern/assets/122539338/e894eeac-e5f9-4b78-8d04-0cb818c6eace)
+
+Barchart:
+![im2](https://github.com/ArunRoshan143/EDA-intern/assets/122539338/a3d12459-b99d-457d-a9a4-a7e1b4cece1f)
+
+Heatmap:
+![im3](https://github.com/ArunRoshan143/EDA-intern/assets/122539338/9e44a58e-ee12-450b-9026-954203963775)
